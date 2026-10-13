@@ -36,3 +36,16 @@ Uses a public historical credit card transaction dataset. The original data cont
 
 ## Limitations
 Model performance on historical data may not represent performance on new transactions. This project is for educational and demonstration purposes, not production banking decisions.
+
+
+
+## Application Screenshots
+
+### Dashboard
+![Fraud Detection Dashboard](screenshots/dashboard.png)
+
+### Prediction Results
+![Prediction Results](screenshots/predictions.png)
+
+### SHAP Explanation
+![SHAP Explanation](screenshots/shap-explanation.png)
