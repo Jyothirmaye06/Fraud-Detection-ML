@@ -41,11 +41,11 @@ Model performance on historical data may not represent performance on new transa
 
 ## Application Screenshots
 
-### Dashboard
-![Fraud Detection Dashboard](screenshots/dashboard.png)
+### 1. Dashboard
+![Fraud Detection Dashboard](screenshots/dashbord.png)
 
-### Prediction Results
+### 2. Prediction Results
 ![Prediction Results](screenshots/predictions.png)
 
-### SHAP Explanation
-![SHAP Explanation](screenshots/shap-explanation.png)
+### 3. SHAP Explanations
+![SHAP Explanations](screenshots/shape-explanations.png)
