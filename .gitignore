@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Large datasets
+creditcard.csv
+creditcard_cleaned.csv
+
+# Large generated predictions
+xgboost_test_predictions.csv
